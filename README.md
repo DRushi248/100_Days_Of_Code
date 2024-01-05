@@ -28,8 +28,8 @@ The progress for each day will be documented in this section, including key conc
 
 | **Day** | **Date**            | **Progress**                       | **What I learnt today**                         | **Status**     |
 |-----|-----------------|--------------------------------|----------------------------------------------------------|------------|
-| 1   | January 1, 2024 | [Link to Day 1 Folder](#)      | Explored C++ basics and Solved some basic pattern coding problems   | ✅ Done     |
-| 2   |  MM-DD-YYYY  | [Link to Day 2 Folder](#)      | Advanced Data Structures in C++                         | ❌ Pending |
+| 1   | January 5, 2024 | [Link to Day 1 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_01)     | Explored C++ basics and Solved some basic pattern coding problems   | ✅ Done     |
+| 2   |  MM-DD-YYYY  | [Link to Day 2 Folder](#)      |                         | ❌ Pending |
 
 
 
