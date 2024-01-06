@@ -29,9 +29,8 @@ The progress for each day will be documented in this section, including key conc
 | **Day** | **Date**            | **Progress**                       | **What I learnt today**                         | **Status**     |
 |-----|-----------------|--------------------------------|----------------------------------------------------------|------------|
 | 1   | January 5, 2024 | [Link to Day 1 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_01)     | Explored C++ basics and Solved some basic pattern coding problems   | ✅ Done     |
-| 2   |  MM-DD-YYYY  | [Link to Day 2 Folder](#)      |                         | ❌ Pending |
-
-
+| 2   | January 6, 2024    | [Link to Day 2 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_02)         | Solved various pattern problems like :- Diamond, Inverted Hollow Pyramid, Flipped Solid Diamond, Alphabet & Numeric Hollow Half Pyramid, Solid Half Diamond | ✅ Done |
+ 
 
 
 ## **How to Navigate This Repository**
