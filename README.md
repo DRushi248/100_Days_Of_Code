@@ -30,6 +30,7 @@ The progress for each day will be documented in this section, including key conc
 |-----|-----------------|--------------------------------|----------------------------------------------------------|------------|
 | 1   | January 5, 2024 | [Link to Day 1 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_01)     | Explored C++ basics and Solved some basic pattern coding problems   | ✅ Done     |
 | 2   | January 6, 2024    | [Link to Day 2 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_02)         | Solved various pattern problems like :- Diamond, Inverted Hollow Pyramid, Flipped Solid Diamond, Alphabet & Numeric Hollow Half Pyramid, Solid Half Diamond | ✅ Done |
+| 3   | January 7, 2024 | [Link to Day 3 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_03) | Learned Bitwise Operators in C++. Solved advanced patterns: Fancy patterns, Floyd's Triangle, Pascal's Triangle, and Butterfly Pattern. | ✅ Done |
  
 
 
