@@ -32,6 +32,8 @@ The progress for each day will be documented in this section, including key conc
 | 2   | January 6, 2024    | [Link to Day 2 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_02)         | Solved various pattern problems like :- Diamond, Inverted Hollow Pyramid, Flipped Solid Diamond, Alphabet & Numeric Hollow Half Pyramid, Solid Half Diamond | ✅ Done |
 | 3   | January 7, 2024 | [Link to Day 3 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_03) | Learned Bitwise Operators in C++. Solved advanced patterns: Fancy patterns, Floyd's Triangle, Pascal's Triangle, and Butterfly Pattern. | ✅ Done |
 | 4   | January 8, 2024 | [Link to Day 4 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_04) | Completed the fundamentals of C++ . Solved problems ranging from summing even numbers to counting set bits in a number. Covered key concepts: factorial calculation, prime number identification, binary-decimal conversions, and more.  | ✅ Done |
+| 5  | January 9, 2024  | [Link to Day 5 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_05) | Began Arrays in C++. Learned Space & Time Complexity. Function Calls: Value & Reference. Problems Solved: Digit-based number creation, Integer digit printing, LeetCode #7: Reverse Integer, Count set bits, Linear Search, Zeroes & ones in array, Max number in array. | ✅ Done |
+
  
 
 
