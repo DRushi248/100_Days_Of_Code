@@ -35,7 +35,7 @@ The progress for each day will be documented in this section, including key conc
 | 5  | January 9, 2024  | [Link to Day 5 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_05) | Began Arrays in C++. Learned Space & Time Complexity. Function Calls: Value & Reference. Problems Solved: Digit-based number creation, Integer digit printing, LeetCode #7: Reverse Integer, Count set bits, Linear Search, Zeroes & ones in array, Max number in array. | ✅ Done |
 | 6  | January 10, 2024 | [Link to Day 6 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_06) | Explored Vector STL and dived into 2D arrays in C++! Solved Problems: Reverse an array, Extreme print in an array, Find unique elements, Sort 0's and 1's in an array, Shift array elements by 1, 2D array reverse diagonal print, Transpose a matrix.   | ✅ Done |
 | 7  | January 11, 2024 | [Link to Day 7 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_07) | Leveled up problem-solving skills with LeetCode: Missing Number(Q.268), Rotate Array(Q.189), Rotate Image(Q.48), Row with Maximum Ones(Q.2643), Sort Colors (Q.75)  | ✅ Done |
-
+| 8  | January 12, 2024  | [Link to Day 8 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_08)  | Solved differnt questions on Array : Key Pairs on GFG, Shift negative integers left, LeetCode 287: Find Duplicate Number, First Repeating Element on GFG, LeetCode 724: Find Pivot Index, Missing element in duplicated array.  | ✅ Done  |
  
 
 
