@@ -34,6 +34,7 @@ The progress for each day will be documented in this section, including key conc
 | 4   | January 8, 2024 | [Link to Day 4 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_04) | Completed the fundamentals of C++ . Solved problems ranging from summing even numbers to counting set bits in a number. Covered key concepts: factorial calculation, prime number identification, binary-decimal conversions, and more.  | ✅ Done |
 | 5  | January 9, 2024  | [Link to Day 5 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_05) | Began Arrays in C++. Learned Space & Time Complexity. Function Calls: Value & Reference. Problems Solved: Digit-based number creation, Integer digit printing, LeetCode #7: Reverse Integer, Count set bits, Linear Search, Zeroes & ones in array, Max number in array. | ✅ Done |
 | 6  | January 10, 2024 | [Link to Day 6 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_06) | Explored Vector STL and dived into 2D arrays in C++! Solved Problems: Reverse an array, Extreme print in an array, Find unique elements, Sort 0's and 1's in an array, Shift array elements by 1, 2D array reverse diagonal print, Transpose a matrix.   | ✅ Done |
+| 7  | January 11, 2024 | [Link to Day 7 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_07) | Leveled up problem-solving skills with LeetCode: Missing Number(Q.268), Rotate Array(Q.189), Rotate Image(Q.48), Row with Maximum Ones(Q.2643), Sort Colors (Q.75)  | ✅ Done |
 
  
 
