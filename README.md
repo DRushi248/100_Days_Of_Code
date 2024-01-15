@@ -38,6 +38,7 @@ The progress for each day will be documented in this section, including key conc
 | 8  | January 12, 2024  | [Link to Day 8 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_08)  | Solved differnt questions on Array : Key Pairs on GFG, Shift negative integers left, LeetCode 287: Find Duplicate Number, First Repeating Element on GFG, LeetCode 724: Find Pivot Index, Missing element in duplicated array.  | ✅ Done  |
 | 9  | January 13, 2024  | [Link to Day 9 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_09) | Began exploration of Binary Search. Solved challenges: First Occurrence, Total Occurrences, Missing Element in Sorted Array, "Peak Index in a Mountain Array" (LeetCode 852). | ✅ Done |
 | 10  | January 14, 2024  | [Link to Day 10 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_10)  | Solved: Common Element (GeeksforGeeks), Wave Print a Matrix, Spiral Matrix (LeetCode 54). Advanced Further in Binary Search with: Sqrt(x) (LeetCode 69), Search in Rotated and Sorted Array (LeetCode 33), Search a 2D Matrix (LeetCode 74).  | ✅ Done |
+| 11  | January 15, 2024  | [Link to Day 11 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_11)  | Explored Sorting Algorithms: Bubble, Selection, Insertion. Mastered custom comparators. Solved Binary Search challenges: Divide using Binary Search, Binary Search on Nearly Sorted Array, Find Odd Occurring Element using Binary Search.  | ✅ Done |
  
 
 
