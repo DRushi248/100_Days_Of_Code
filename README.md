@@ -43,6 +43,7 @@ The progress for each day will be documented in this section, including key conc
 | 13  | January 17, 2024  | [Link to Day 13 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_13)  | Mastered the basics of char arrays and strings. Implemented string reversal and conversion to uppercase. Solved a question to check if a string is a palindrome or not. Tackled LeetCode challenges: 'K Different Pairs in an Array' (LeetCode 532), 'Find K Closest Elements' (LeetCode 658). | ✅ Done  |
 | 14  | January 18, 2024  | [Link to Day 14 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_14)  |  Tackled challenging string problems on LeetCode today. Solved: Remove All Adjacent Duplicates in String (LeetCode 1047), Remove All Occurrences of a Substring (LeetCode 1910), Valid Palindrome II (LeetCode 680), Palindromic Substrings (LeetCode 647). | ✅ Done |
 | 15  | January 19, 2024  | [Link to Day 15 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_15)  | Explored Exponential Search today! Understood its applications and nuances, Solved the 'Book Allocation Problem' on GeeksforGeeks. | ✅ Done |
+| 16  | January 20, 2024  | [Link to Day 16 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_16)  | Today was all about conquering some interesting LeetCode challenges! Solved: 'Decode the Message' (Leetcode 2325), 'Minimum Amount of Time to Collect Garbage' (Leetcode 2391), 'Find and Replace Pattern' (Leetcode 890).  | ✅ Done  |
  
 
 
