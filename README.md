@@ -45,6 +45,7 @@ The progress for each day will be documented in this section, including key conc
 | 15  | January 19, 2024  | [Link to Day 15 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_15)  | Explored Exponential Search today! Understood its applications and nuances, Solved the 'Book Allocation Problem' on GeeksforGeeks. | ✅ Done |
 | 16  | January 20, 2024  | [Link to Day 16 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_16)  | Today was all about conquering some interesting LeetCode challenges! Solved: 'Decode the Message' (Leetcode 2325), 'Minimum Amount of Time to Collect Garbage' (Leetcode 2391), 'Find and Replace Pattern' (Leetcode 890).  | ✅ Done  |
 | 17  | January 21, 2024  | [Link to Day 17 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_17)  |  Explored basic Math in DSA: Slow and Fast Exponentiation, Optimized Sieve for primes, Applied Segmented Sieve, Solved Count Primes(Leetcode 204)  | ✅ Done |
+| 18  | January 22, 2024  | [Link to Day 18 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_18)  | Today I solved: The painters partition problem (gfg) and Agressive cows (gfg).  | ✅ Done  |
  
 
 
