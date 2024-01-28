@@ -46,7 +46,12 @@ The progress for each day will be documented in this section, including key conc
 | 16  | January 20, 2024  | [Link to Day 16 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_16)  | Today was all about conquering some interesting LeetCode challenges! Solved: 'Decode the Message' (Leetcode 2325), 'Minimum Amount of Time to Collect Garbage' (Leetcode 2391), 'Find and Replace Pattern' (Leetcode 890).  | ✅ Done  |
 | 17  | January 21, 2024  | [Link to Day 17 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_17)  |  Explored basic Math in DSA: Slow and Fast Exponentiation, Optimized Sieve for primes, Applied Segmented Sieve, Solved Count Primes(Leetcode 204)  | ✅ Done |
 | 18  | January 22, 2024  | [Link to Day 18 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_18)  | Today I solved: The painters partition problem (gfg) and Agressive cows (gfg).  | ✅ Done  |
- 
+| 19  | January 23, 2024  | [Link to Day 19 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_19)  | Understand about Pointers in C++ and Solved Leetcode problem no.242 (Valid Anagram) | ✅ Done |
+| 20  | January 24, 2024  | [Link to Day 20 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_20)  | Solved and Understood the EKO and PARATA Spoj. | ✅ Done  | 
+| 21  | January 25, 2024  | [Link to Day 21 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_21)  | Solved: Longest common prefix(leetcode 14), Reverse only letters(leetcode 917).  | ✅ Done |
+| 22  | January 26, 2024  | [Link to Day 22 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_22)  | Solved: Isomorphic Strings(leetcode #205), Reverse vowels of a String(leetcode #345). | ✅ Done  |
+| 23  | January 27, 2024  | [Link to Day 23 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_23)  | Today I Solved: leetcode #49(Group Anagrams) & leetcode #5(Longest palindromic substring). | ✅ Done |
+| 24  | January 28, 2024  | [Link to Day 24 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_24)  | Solved: String Compression (leetcode_443) and String to Integer (leetcode_8).  | ✅ Done  |
 
 
 ## **How to Navigate This Repository**
