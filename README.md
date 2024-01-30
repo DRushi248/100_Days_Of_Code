@@ -53,6 +53,10 @@ The progress for each day will be documented in this section, including key conc
 | 23  | January 27, 2024  | [Link to Day 23 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_23)  | Today I Solved: leetcode #49(Group Anagrams) & leetcode #5(Longest palindromic substring). | ✅ Done |
 | 24  | January 28, 2024  | [Link to Day 24 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_24)  | Solved: String Compression (leetcode_443) and String to Integer (leetcode_8).  | ✅ Done  |
 | 25  | January 29, 2024  | [Link to Day 25 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_25)  | Solved LeetCode #12: Integer to Romans and LeetCode #6: ZigZag Conversion.  | ✅ Done  |
+| 26  | January 30, 2024  | [Link to Day 26 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_26) | Solved LeetCode #179: Largest number and LeetCode #28: Find the Index of the First Occurrence in a String.  | ✅ Done  |
+
+
+
 
 
 ## **How to Navigate This Repository**
