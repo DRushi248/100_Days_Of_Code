@@ -55,7 +55,8 @@ The progress for each day will be documented in this section, including key conc
 | 25  | January 29, 2024  | [Link to Day 25 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_25)  | Solved LeetCode #12: Integer to Romans and LeetCode #6: ZigZag Conversion.  | ✅ Done  |
 | 26  | January 30, 2024  | [Link to Day 26 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_26) | Solved LeetCode #179: Largest number and LeetCode #28: Find the Index of the First Occurrence in a String.  | ✅ Done  |
 | 27  | January 31, 2024  | [Link to Day 27 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_27) | Solved LeetCode #539: Minimum Time Difference and LeetCode #2125: Number of Laser Beams in a Bank.  | ✅ Done  |
-| 28  | February 1, 2024  | [Link to Day 28 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_28)  | Successfully solved LeetCode #1209: Remove All Adjacent Duplicates in String II and LeetCode #767: Reorganize String. |
+| 28  | February 1, 2024  | [Link to Day 28 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_28)  | Successfully solved LeetCode #1209: Remove All Adjacent Duplicates in String II and LeetCode #767: Reorganize String. | ✅ Done |
+| 29  | February 2, 2024  | [Link to Day 29 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_29)  |  Today's Learnings: Revised pointer concepts in C++. Explored the world of recursion. Solved a problem using recursion: Last Occurrence. | ✅ Done |
 
 
 
