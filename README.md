@@ -59,6 +59,8 @@ The progress for each day will be documented in this section, including key conc
 | 29  | February 2, 2024  | [Link to Day 29 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_29)  |  Today's Learnings: Revised pointer concepts in C++. Explored the world of recursion. Solved a problem using recursion: Last Occurrence. | ✅ Done |
 | 30  | February 3, 2024  | [Link to Day 30 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_30)  | Today I dived into basic recursion problems to solidify the concept. Successfully solved problems like Factorial, Fibonacci Series, Power of 2, and Printing Sum from N to 1 using recursion.  | ✅ Done |
 | 31  | February 4, 2024  | [Link to Day 31 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_31)  | Navigated LeetCode #70: Climbing Stairs using recursion and Solved problems like Finding Minimum Number in Array, Printing Array, and Searching in Array using recursion.  | ✅ Done  |
+| 32  | February 5, 2024  | [Link to Day 32 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_32)  | Implemented printing digits using recursion, Successfully reversed a string using recursion, Stored even numbers from an array into vectors (using recursion). | ✅ Done |
+| 33  | February 6, 2024  | [Link to Day 33 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_33)  | Implemented a recursive check for array sorting, Successfully performed binary search using recursion, Found subsequences of a string using recursion. | ✅ Done |
 
 
 
