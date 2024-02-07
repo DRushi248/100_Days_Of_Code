@@ -61,6 +61,7 @@ The progress for each day will be documented in this section, including key conc
 | 31  | February 4, 2024  | [Link to Day 31 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_31)  | Navigated LeetCode #70: Climbing Stairs using recursion and Solved problems like Finding Minimum Number in Array, Printing Array, and Searching in Array using recursion.  | ✅ Done  |
 | 32  | February 5, 2024  | [Link to Day 32 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_32)  | Implemented printing digits using recursion, Successfully reversed a string using recursion, Stored even numbers from an array into vectors (using recursion). | ✅ Done |
 | 33  | February 6, 2024  | [Link to Day 33 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_33)  | Implemented a recursive check for array sorting, Successfully performed binary search using recursion, Found subsequences of a string using recursion. | ✅ Done |
+| 34  | February 7, 2024  | [Link to Day 34 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_34)  | Solved Maximized cut segments using recursion (GFG), Coin change problem using recursion (LeetCode 322) and House robber problem using recursion (LeetCode 198).  | ✅ Done  |
 
 
 
