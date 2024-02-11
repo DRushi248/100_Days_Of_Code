@@ -65,6 +65,7 @@ The progress for each day will be documented in this section, including key conc
 | 35  | February 8, 2024  | [Link to Day 35 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_35)  | Implemented palindrome check using recursion and Successfully solved 'Add Strings'(LeetCode 415) using recursion. | ✅ Done |
 | 36  | February 9, 2024  | [Link to Day 36 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_36)  |  Printed all subarrays using recursion and Solved leetcode #1910 (Remove All Occurrences of a Substring).  | ✅ Done  |
 | 37  | February 10, 2024 | [Link to Day 37 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_37)  | Today I solved: Best time to buy and sell stock using recursion (LeetCode #121) and Minimum cost for tickets using recursion (LeetCode #983).  | ✅ Done  |
+| 38  | February 11, 2024 | [Link to Day 38 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_38)  | Solved integers to English words using recursion (LeetCode #273) And wildcard matching using recursion (LeetCode #44).  | ✅ Done  |
 
 
 
