@@ -80,6 +80,8 @@ The progress for each day will be documented in this section, including key conc
 | 50  | February 23, 2024 | [Link to Day 50 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_50) | Explored the pillars of OOP: Abstraction, Encapsulation, Inheritance. Deepened understanding of access specifiers: Public, Private, Protected. Delved into types of inheritance: Single, Multilevel, Hierarchical. Investigated the Diamond Problem and polymorphism concepts. | ✅ Done | 
 | 51  | February 24, 2024 | [Link to Day 51 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_51) | Distinguished between shallow vs deep copy in C++. Explored the concept of making constructors private. Learned about the "friend" keyword in C++. | ✅ Done |
 | 52  | February 25, 2024 | [Link to Day 52 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_52) | Explored dynamic polymorphism & function overriding in C++. Implemented custom MyString class (String implementation). | ✅ Done |
+| 53  | February 26, 2024 | [Link to Day 53 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_53) | Explored "virtual" keyword in C++ for dynamic polymorphism. Solved problem Leetcode #2709: Greatest Common Divisor Traversal. | ✅ Done |
+| 54  | February 27, 2024 | [Link to Day 54 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_54) | Explored abstraction: Abstraction in header files, classes, & abstract classes. Learned about inline functions for efficiency. | ✅ Done |
 
 
 
