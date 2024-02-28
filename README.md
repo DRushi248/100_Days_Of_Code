@@ -82,6 +82,7 @@ The progress for each day will be documented in this section, including key conc
 | 52  | February 25, 2024 | [Link to Day 52 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_52) | Explored dynamic polymorphism & function overriding in C++. Implemented custom MyString class (String implementation). | ✅ Done |
 | 53  | February 26, 2024 | [Link to Day 53 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_53) | Explored "virtual" keyword in C++ for dynamic polymorphism. Solved problem Leetcode #2709: Greatest Common Divisor Traversal. | ✅ Done |
 | 54  | February 27, 2024 | [Link to Day 54 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_54) | Explored abstraction: Abstraction in header files, classes, & abstract classes. Learned about inline functions for efficiency. | ✅ Done |
+| 55  | February 28, 2024 | [Link to Day 55 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_55) | Initiated learning Linked List basics: Node creation, Operations: Insert at Head, Insert at Tail, Find Length, Insert at Position. | ✅ Done | 
 
 
 
