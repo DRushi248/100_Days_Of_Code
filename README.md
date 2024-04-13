@@ -82,7 +82,57 @@ The progress for each day will be documented in this section, including key conc
 | 52  | February 25, 2024 | [Link to Day 52 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_52) | Explored dynamic polymorphism & function overriding in C++. Implemented custom MyString class (String implementation). | ✅ Done |
 | 53  | February 26, 2024 | [Link to Day 53 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_53) | Explored "virtual" keyword in C++ for dynamic polymorphism. Solved problem Leetcode #2709: Greatest Common Divisor Traversal. | ✅ Done |
 | 54  | February 27, 2024 | [Link to Day 54 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_54) | Explored abstraction: Abstraction in header files, classes, & abstract classes. Learned about inline functions for efficiency. | ✅ Done |
-| 55  | February 28, 2024 | [Link to Day 55 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_55) | Initiated learning Linked List basics: Node creation, Operations: Insert at Head, Insert at Tail, Find Length, Insert at Position. | ✅ Done | 
+| 55  | February 28, 2024 | [Link to Day 55 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_55) | Initiated learning Linked List basics: Node creation, Operations: Insert at Head, Insert at Tail, Find Length, Insert at Position. | ✅ Done |
+| 56  | February 29, 2024 | [Link to Day 56 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_56) | Solved "Delete N nodes after M nodes of a linked list" on gfg | ✅ Done | 
+| 57  | March 1, 2024 | [Link to Day 57 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_57) | Solved Leetcode problem #21: "Merge Two Sorted Lists". | ✅ Done | 
+| 58  | March 2, 2024 | [Link to Day 58 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_58) | Successfully solved the "Get Node Value" problem on HackerRank. | ✅ Done | 
+| 59  | March 3, 2024 | [Link to Day 59 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_59) | Solved Leetcode problem 160: "Intersection of Two LinkedLists". | ✅ Done | 
+| 60  | March 4, 2024 | [Link to Day 60 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_60) | Solved Leetcode problem 148: "Sort List" using merge sort. | ✅ Done | 
+| 61  | March 5, 2024 | [Link to Day 61 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_61) | Solved "Flattening a Linked List" problem on GfG. | ✅ Done | 
+| 62  | March 6, 2024 | [Link to Day 62 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_62) | Solved Leetcode problem 138: "Copy list with Random Pointer". | ✅ Done | 
+| 63  | March 7, 2024 | [Link to Day 63 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_63) | Solved Leetcode problem 61: "Rotate list". | ✅ Done | 
+| 64  | March 8, 2024 | [Link to Day 64 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_64) | Solved Leetcode problem 2058: "Find the Minimum and Maximum Number of Nodes Between Critical Points". | ✅ Done | 
+| 65  | March 9, 2024 | [Link to Day 65 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_65) | Solved Leetcode problem 2181: "Merge Nodes in Between Zeros". | ✅ Done | 
+| 66  | March 10, 2024 | [Link to Day 66 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_66) | Solved Leetcode problem 328: "Odd Even Linked List". | ✅ Done | 
+| 67  | March 11, 2024 | [Link to Day 67 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_67) | Solved Leetcode problem 2816: "Double a Number Represented as a Linked List". | ✅ Done | 
+| 68  | March 12, 2024 | [Link to Day 68 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_68) | Solved Leetcode problem 1721: "Swapping Nodes in a Linked List". | ✅ Done | 
+| 69  | March 13, 2024 | [Link to Day 69 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_69) | Solved Leetcode problem 1171: "Remove Zero Sum Consecutive Nodes from Linked List". | ✅ Done | 
+| 70  | March 14, 2024 | [Link to Day 70 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_70) | Explored basics of Stack. | ✅ Done | 
+| 71  | March 15, 2024 | [Link to Day 71 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_71) | Explored Advance Stact Operations: Finding the middle element, Revesing the stack, Sorting stack elements. | ✅ Done | 
+| 72  | March 16, 2024 | [Link to Day 72 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_72) | Implemented Two Stack using one Array and Solved "Check for Redundant Brackets" problem. | ✅ Done | 
+| 73  | March 17, 2024 | [Link to Day 73 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_73) | Explored next and previous smaller element algorithm and Implemented the Largest Rectangle in Histogram problem. | ✅ Done | 
+| 74  | March 18, 2024 | [Link to Day 74 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_74) | Successfully tackled the "Count the Reversals" problem on GfG. | ✅ Done | 
+| 75  | March 19, 2024 | [Link to Day 75 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_75) | Solved Leetcode problem 1047: "Remove All the Adjacentt Duplicates in String". | ✅ Done | 
+| 76  | March 20, 2024 | [Link to Day 76 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_76) | Solved "The Celebrity Problem" on GfG. | ✅ Done | 
+| 77  | March 21, 2024 | [Link to Day 77 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_77) | Successfully tackled "Next Greater Node in LinkedList" problem on Leetcode(1019). | ✅ Done | 
+| 78  | March 22, 2024 | [Link to Day 78 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_78) | Solved "Online Stock Span" problem on Leetcode. | ✅ Done | 
+| 79  | March 23, 2024 | [Link to Day 79 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_79) | Solved "Check if word is valid after Substitutions" problem on Leetcode #1003. | ✅ Done | 
+| 80  | March 24, 2024 | [Link to Day 80 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_80) | Conquered Leetcode problem #394 "Decode String". | ✅ Done | 
+| 81  | March 25, 2024 | [Link to Day 81 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_81) | Solved Leetcode problem #71 "Simplify Path", streamlining path representation. | ✅ Done | 
+| 82  | March 26, 2024 | [Link to Day 82 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_82) | Successfully tackled Leetcode problem #85 "Maximal Rectangle". | ✅ Done | 
+| 83  | March 27, 2024 | [Link to Day 83 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_83) | Resolved Leetcode problem #735 "Asteroid Collision". | ✅ Done | 
+| 84  | March 28, 2024 | [Link to Day 84 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_84) | Successfully solved Leetcode problem #853 "Car Fleet". | ✅ Done | 
+| 85  | March 29, 2024 | [Link to Day 85 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_85) | Successfully solved Leetcode problem #1776 "Car Fleet II". | ✅ Done | 
+| 86  | March 30, 2024 | [Link to Day 86 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_86) | Successfully tackled Leetcode problem #32 "Longest Valid Parentheses". | ✅ Done | 
+| 87  | March 31, 2024 | [Link to Day 87 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_87) | Conquered Leetcode problem #739 "Daily Temperature". | ✅ Done | 
+| 88  | April 1, 2024 | [Link to Day 88 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_88) | Solved Leetcode problem #402 "Remove K Digits". | ✅ Done | 
+| 89  | April 2, 2024 | [Link to Day 89 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_89) | Solved Leetcode problem #921 "Minimum Add to Make Parentheses Valid". | ✅ Done | 
+| 90  | April 3, 2024 | [Link to Day 90 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_90) | Solved Leetcode problem #1472 "Design Browser History". | ✅ Done | 
+| 91  | April 4, 2024 | [Link to Day 91 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_91) | Solved Leetcode problem #232 "Implement Queue using Stacks". | ✅ Done | 
+| 92  | April 5, 2024 | [Link to Day 92 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_92) | Conquered Leetcode problem #225 "Implement Stack using Queues". | ✅ Done | 
+| 93  | April 6, 2024 | [Link to Day 93 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_93) | Solved Leetcode problem #933 "Number of Recent Calls". | ✅ Done | 
+| 94  | April 7, 2024 | [Link to Day 94 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_94) | Successfully tackled Leetcode #1823 "Find the Winner of the Circular Game". | ✅ Done | 
+| 95  | April 8, 2024 | [Link to Day 95 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_95) | Solved Leetcode problem #950 "Reveal Cards in Increasing Order". | ✅ Done | 
+| 96  | April 9, 2024 | [Link to Day 96 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_96) | Solved Leetcode problem #2327 "Number of People Aware of a Secret". | ✅ Done | 
+| 97  | April 10, 2024 | [Link to Day 97 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_97) | Solved Leetcode problem #543 "Diameter of Binary Tree". | ✅ Done | 
+| 98  | April 11, 2024 | [Link to Day 98 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_98) | Solved Leetcode problem #110 "Balanced Binary Tree". | ✅ Done | 
+| 99  | April 12, 2024 | [Link to Day 99 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_99) | Successfully solved Leetcode problem #101 "Symmetric Tree". | ✅ Done | 
+| 100  | April 13, 2024 | [Link to Day 100 Folder](https://github.com/DRushi248/100_Days_Of_Code/tree/main/Day_100) | Successfully solved "Diagonal Traversal of Binary Tree" on GfG. | ✅ Done | 
+
+
+
+**I'm incredibly proud of the progress I've made in honing my coding skills over the past 100 days. Looking forward to continuing this journey and taking on new challenges! 💻🎉**
+
 
 
 
